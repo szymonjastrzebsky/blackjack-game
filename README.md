@@ -1,6 +1,8 @@
-![blackjack_logo_by_elizzl_d37ayi8-pre](https://github.com/szymonjastrzebsky/blackjack-game/assets/138871426/a8914e21-d6de-4599-b9fe-f2dec8426ac5)
 
-# Blackjack-game
+
+# ![blackjack_logo_by_elizzl_d37ayi8-pre](https://github.com/szymonjastrzebsky/blackjack-game/assets/138871426/57a2ec1d-5ce8-4aec-8632-87ce3d9d2f35)
+
+# BlackJack Game
 
 # Project Description
 
